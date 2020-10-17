@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HacktoberFest Starter Project :🎃
 
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
@@ -15,7 +15,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
+## How to contribute to this project:
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
@@ -24,7 +24,7 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
+## Getting started:
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -52,7 +52,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Choose from these tasks
-### 1. Add your name
+### 1. Add your name:
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -62,33 +62,33 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
+### 2. Add a profile page:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
-# Your Name
+# Your Name:
 
-### Location
+### Location:
 
 Your City/Country
 
-### Academics
+### Academics:
 
 Your School
 
-### Interests
+### Interests:
 
 - Some Things You Like
 
-### Development
+### Development:
 
 - Inventor of the My Pillow
 
-### Projects
+### Projects:
 
 - [My Project](GitHub Link) Short Description
 
-### Profile Link
+### Profile Link:
 
 [Your Name](GitHub Link)
 ```
